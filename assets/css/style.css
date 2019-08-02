@@ -91,9 +91,9 @@ nav a
     {
     display: inline-block;
     padding-left: 15px;
-    margin-left: 15px;
+    margin-left: 0px;
     line-height: 18px;
-    color: rgb(25, 92, 169);
+    color: rgb(80, 0, 0);
     text-decoration: none;
     border-left: 2px solid black;
     }
@@ -193,7 +193,7 @@ a:active
     line-height: 30px;
     color: white;
     text-align: center;
-    background: teal;
+    background: rgb(80, 0, 0);
     border-bottom: 0;
     }
   
