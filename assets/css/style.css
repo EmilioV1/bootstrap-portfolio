@@ -16,6 +16,15 @@ body
     clear: both;
     }
 
+.container1 
+    {
+    width: 100%;
+    max-width: 960px;
+    line-height: 25px;
+    margin: 0 auto;
+    clear: both;
+    }
+
 h1,h2,h3,p 
     {
     margin-bottom: 20px;
@@ -85,7 +94,7 @@ h2,h3
 nav
     {
     float: right;
-    margin-top: 25px;
+    margin-top: 45px;
     }
 nav a
     {
@@ -112,7 +121,6 @@ footer
     border-top: 8px solid rgb(0, 0, 0);
     height: 50px;
     }
-
 h3, h2
     {
     padding-bottom: 20px;
