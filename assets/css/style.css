@@ -231,6 +231,7 @@ textarea
     display: block;
     width: 98%;
     }
+
 input[type=text],
 input[type=email],
 textarea
@@ -240,6 +241,7 @@ textarea
     font-size: 14px;
     border: 1px solid white;
     }
+
 textarea
     {
     height: 200px
@@ -254,36 +256,6 @@ input[type=submit]
     border: 0 none;
     }
 
-@media screen and (max-width: 980px)
-{
-body
-    {
-    background-color: red;
-    }
-.main-section
-    {
-    max-width: 75%;
-    }
-}
-@media screen and (max-width: 768px)
-{
-body
-    {
-    background-color: cyan;
-    }
-}
-@media screen and (max-width: 640px)
-{
-#masthead
-    {
-    position: static;
-    }
-body
-    {
-    background-color: blue;
-    }
-}
-
 .card
 {
 width: 30%;
@@ -293,6 +265,7 @@ box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 transition: 0.3s;
 border-radius: 5px 5px 0 0;
 }
+
 /* Add rounded corners to the top left and the top right corner of the image */
 img
     {
